@@ -1,7 +1,9 @@
 ---
-title: My title here
-category: flowers
+"@context": https://schema.org/
+"@type": Dataset
 author: Myself
+name: flowers
+description: My title here
 created: 2018-09-01
 ---
 
