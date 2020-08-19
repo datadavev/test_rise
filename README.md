@@ -1,8 +1,7 @@
 ---
-title: Test
-"@context": https://schema.org/
-"@type":Dataset
-name:Testing YAML front matter to SO JSON-LD
+title: My title here
+category: flowers
+author: Myself
 created: 2018-09-01
 ---
 
