@@ -1,6 +1,3 @@
-<script type="application/ld+json">
-</script>
-
 ---
 "@context": https://schema.org/
 "@type": Dataset
@@ -11,3 +8,6 @@ created: 2018-09-01
 ---
 
 # Test title for rise
+
+<script type="application/ld+json">
+</script>
